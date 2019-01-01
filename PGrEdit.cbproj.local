@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018-12-17 18:26:54.000.498,=C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\Unit1.cpp</Transaction>
+    <Transaction>2018-12-17 18:26:54.000.358,=C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\Project1PCH1.h</Transaction>
+    <Transaction>2018-12-17 18:27:52.000.359,C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\PGrEdit.cbproj=C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\Project1.cbproj</Transaction>
+    <Transaction>2018-12-17 18:27:52.000.359,C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\PGrEditPCH1.h=C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\Project1PCH1.h</Transaction>
+    <Transaction>2018-12-17 18:28:15.000.818,C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\UGrEdit.dfm=C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\Unit1.dfm</Transaction>
+    <Transaction>2018-12-17 18:28:15.000.818,C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\UGrEdit.cpp=C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\Unit1.cpp</Transaction>
+    <Transaction>2018-12-17 18:28:15.000.818,C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\UGrEdit.h=C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\Unit1.h</Transaction>
+    <Transaction>2018-12-17 18:28:27.000.976,C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\C++ Builder\UGrEdit.h=C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\UGrEdit.h</Transaction>
+    <Transaction>2018-12-17 18:28:27.000.976,C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\C++ Builder\UGrEdit.cpp=C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\UGrEdit.cpp</Transaction>
+    <Transaction>2018-12-17 18:28:27.000.976,C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\C++ Builder\UGrEdit.dfm=C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\UGrEdit.dfm</Transaction>
+    <Transaction>2018-12-17 18:28:29.000.726,C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\C++ Builder\PGrEditPCH1.h=C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\PGrEditPCH1.h</Transaction>
+    <Transaction>2018-12-17 18:28:30.000.738,C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\C++ Builder\PGrEdit.cbproj=C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\PGrEdit.cbproj</Transaction>
+    <Transaction>2018-12-17 18:43:51.000.678,=C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\C++ Builder\extrares.res</Transaction>
+    <Transaction>2018-12-17 18:47:07.000.822,C:\Users\miste\Google Drive\School\Arhive\Хусейнов\РИП\C++ Builder\extrares.res=</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="PGrEdit.cpp"/>
+    <File Path="PGrEditPCH1.h"/>
+    <File Path="UGrEdit.cpp"/>
+    <File Path="UGrEdit.cpp"/>
+    <File Path="UGrEdit.dfm"/>
+    <File Path="UGrEdit.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
